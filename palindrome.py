@@ -12,7 +12,7 @@
 #         else:
 #             return False
 
-#  using another logic
+# using another logic
 
 def solve(num):
     num = str(num)
